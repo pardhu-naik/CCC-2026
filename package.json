@@ -1,0 +1,13 @@
+{
+  "name": "smart-route-finder",
+  "version": "1.0.0",
+  "description": "Smart Route Finder with Dijkstra Visualization",
+  "scripts": {
+    "dev:backend": "cd backend && node server.js",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:all": "npx -y concurrently \"npm run dev:backend\" \"npm run dev:frontend\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
