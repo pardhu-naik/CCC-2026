@@ -32,7 +32,7 @@ Smart Route Finder is an interactive web application that visualizes how Dijkstr
    npm run dev
    ```
 
-## Team
+## Team members 
 - B. Pardhu Naik
 - B. Praveen Kumar
 - L. Suryateja
